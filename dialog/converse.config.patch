@@ -400,7 +400,7 @@
 			"I have been to Earth once. Then I had a dream where it was all destroyed.",
 			"Oh great... I'm allergic to 'achoo' your fur!",
 			"I had a friend who knew a guy, whose friend knew a famous Fenerox hunter!",
-			"What? Don't all Fenerox spoke in two-word sentences?"
+			"What? Don't all Fenerox speak in two-word sentences?"
 		]
 	},
 	{
@@ -2723,5 +2723,98 @@
 			"The writing of your kind reminds me a but of the glyphs of the Stargazers.",
 			"Have you come to praise Kluex as well?"
 		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/nightar",
+		"value": {
+			"default": [
+				"Evil is done everywhere under yon suns. That is why we Nightar lurk in shadow, where peril findeth us not.",
+				"Begone, alien, and do not test us.",
+				"What business hast thou here, Lightdweller?",
+				"I have naught to say to thee, Lightdweller.",
+				"I have no patience for this, thou alien fool.",
+				"I have no desire for conversation, Lightdweller.",
+				"Begone.", "Excuse me.", "Trouble me not with thine crude tongue, Lightdweller.",
+				"I am sorry, Lightdweller, but I speak not thine language."
+			],
+
+			"kirhos": [
+				"No Kirhosi sorcery can ever penetrate that which it knows not.",
+				"Evil is done everywhere under yon suns. That is why we Nightar lurk in shadow, where peril findeth us not.",
+				"My ears deign not to listen to thine Kirhosi mewling. Goodbye.",
+				"Spare thyself a futile parley, and make thee scarce, <entityname>.",
+				"Begone, Kirhos, and do not test us.",
+				"No Nightar secret may ever be fathomed by whatever sorcerous means Arkdweller hackers may wield.",
+				"We Nightar have naught to do with your kind, as do I with thee.",
+				"Thou wastest thine time on this errand, Kirhos. Begone.",
+				"Trouble me not with thine grasping, Arkdweller.", 
+"Be quick thou with thine discourse, and quicker still with thine feet. I have errands to run.",
+				"Excuse me."
+			],
+
+			"fukirhos": [
+				"No Kirhosi sorcery can ever penetrate that which it knows not.",
+				"Evil is done everywhere under yon suns. That is why we Nightar lurk in shadow, where peril findeth us not.",
+				"My ears deign not to listen to thine Kirhosi mewling. Goodbye.",
+				"Spare thyself a futile parley, and make thee scarce, <entityname>.",
+				"Begone, Kirhos, and do not test us.",
+				"No Nightar secret may ever be fathomed by whatever sorcerous means Arkdweller hackers may wield.",
+				"We Nightar have naught to do with your kind, as do I with thee.",
+				"Thou wastest thine time on this errand, Kirhos. Begone.",
+				"Trouble me not with thine grasping, Arkdweller.", 
+"Be quick thou with thine discourse, and quicker still with thine feet. I have errands to run.",
+				"Excuse me."
+			],
+
+			"human": [
+			"A warrior, thou? but I see no Tenshae upon thine flesh.",
+				"Be there many Humans all across the Galaxy?",
+				"How is it that we can be so similar and yet so different, Lightdweller?",
+				"How can thy folk live in the light on the surface and yet not fall ill?",
+				"By the Source, a Human!",
+				"Sunblock? never have mine ears heard of it.", 
+				"If only there wert some unguent, as thou describst, that could protect our flesh on the surface.",
+				"What business hast thou here, Human?", 
+"Be quick thou with thine discourse, and quicker still with thine feet. I have errands to run.",
+				"Excuse me.",
+				"Evil is done everywhere under yon suns. That is why we Nightar lurk in shadow, where peril findeth us not.",
+				"My ears deign not to listen to thine droning. Goodbye.",
+				"Begone, Human, and do not test us.",
+				"I'd be lief were thou quit of this place.",
+				"For sooth, be quit of this, <entityname>. Thou shalt have no stomach to test me.",
+				"I have naught to say to thee, Lightdweller.",
+				"I have not the patience for whatever twitter or tidings thou bringst."
+			],
+
+			"shadow": [
+"Be quick thou with thine discourse, and quicker still with thine feet. I have errands to run.",
+				"By the Source, consider thee as if thou werst now in thine very dwelling, <entityname>.",
+				"Another fellow dweller in the darkness, I see.",
+				"Darkness is our friend, and they who walk in it are beloved to us.",
+				"Something unappeased, unappeasable, is within me; it longeth to find expression.",
+				"Tarry a while, friend, and savour this moment together.",
+				"...",
+				"How be it possible for the both of us to have this conversation?"
+			],
+			"nightar": [
+"Be quick thou with thine discourse, and quicker still with thine feet. I have errands to run.",
+				"It is foolish for a fighter such as thyself to be at the call of Lightdwellers.",
+				"When was the last time thou observed the conshak?",
+				"Thou hast the mien of a warrior, how many Tenshae be there upon thee?",
+				"For sooth, please don't go, but stay with us, kinsman.",
+				"The universe is such a dangerous place, stay concealed from peril with us in the darkness!",
+				"Ill luck shalt thou have, if thou quittest not mingling with Lightdweller races.",
+				"But why wouldst thou mingle with such wastrel Lightdwellers as be the Terrene Protectorate?",
+				"By the Source, thou seemest strong of swordarm.",
+				"Be blessed in the name of the Matriarch, fellow Nightar.",
+				"Be at peace in the Source, my friend.",
+				"The Protectorate? but why wouldst thou have anything with them?",
+				"These Humans, what be they like?",
+				"Tarry a while, friend, and savour this moment together.",
+				"By the Matriarch, how be it that thou be a Lightdweller like all the other aliens?",
+				"Needst thou anything, fellow Darkdweller?"
+			]
+		}
 	}
 ]
